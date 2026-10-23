@@ -1,14 +1,18 @@
-# Portfolio de Tomas Coronel
+# Portfolio de Tomas Coronel — TP2
 
-Portfolio personal para el TP1 de React. Comisión 7.
+Portfolio multipágina hecho con React, React Router DOM, Vite, JavaScript, JSX y CSS.
 
-Hecho con React, Vite, JavaScript y CSS. Referencia visual: [Cleanfolio](https://github.com/rjshkhr/cleanfolio), adaptado.
+Estudiante: Tomas Coronel  
+Comisión: 7  
+Estudios: UTN, Facultad Regional Tucumán
 
-Para correrlo localmente, instalá Node.js y ejecutá:
+Para ejecutarlo, instalá las dependencias y levantá Vite:
 
 ```bash
 npm install
 npm run dev
 ```
 
-Código: [repositorio](https://github.com/tomicor979-lgtm/t1-react-tomas-coronel). Sitio publicado: [GitHub Pages](https://tomicor979-lgtm.github.io/t1-react-tomas-coronel/).
+Repositorio: https://github.com/tomicor979-lgtm/t1-react-tomas-coronel
+
+Sitio: https://tomicor979-lgtm.github.io/t1-react-tomas-coronel/

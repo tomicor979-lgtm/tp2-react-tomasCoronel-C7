@@ -12,7 +12,7 @@ export default function BarraLateral() {
   return (
     <aside className="barra-lateral">
       <h1>Tomas Coronel</h1>
-      <p>Portfolio personal</p>
+      <p>Portfolio TP2</p>
       <nav className="navegacion">
         {secciones.map((seccion) => (
           <NavLink

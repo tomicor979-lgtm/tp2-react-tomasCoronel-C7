@@ -13,6 +13,6 @@ npm install
 npm run dev
 ```
 
-Repositorio: https://github.com/tomicor979-lgtm/t1-react-tomas-coronel
+Repositorio: https://github.com/tomicor979-lgtm/tp2-react-tomasCoronel-C7
 
-Sitio: https://tomicor979-lgtm.github.io/t1-react-tomas-coronel/
+Sitio: https://tomicor979-lgtm.github.io/tp2-react-tomasCoronel-C7/
